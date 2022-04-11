@@ -1,6 +1,5 @@
-# NAVIGATION-FLUIDITY
 # 💧Liquid Navigation Menu Indicator
-## [Watch it on youtube]---->(https://youtu.be/argynmjupK8)
+## [Watch it on youtube](https://youtu.be/argynmjupK8)
 ### 💧Liquid Navigation Menu Indicator
 
 - Liquid Navigation Menu Indicator Using HTML CSS & JavaScript
@@ -10,4 +9,4 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-# NOTE-This projected is not originally created by Me I have only Done A few Changes.
+![preview img](/preview.png)
